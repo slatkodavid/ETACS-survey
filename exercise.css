@@ -1,0 +1,61 @@
+.part-one {
+    display: grid;
+    grid-template-columns: 1fr 9fr;
+    align-items: center;
+    width: 450px;
+    margin-top: 0;
+    }
+.div-cat {
+margin-left: 10px;
+}
+.profile-picture {
+    border-radius: 50%;
+}
+.upper-side {
+margin-left: 16px;
+}
+.para {
+    margin-top: 10px;
+}
+.p1 {
+    display: inline-block;
+    font-weight: bold;
+}
+.p2 {
+    color: gray;
+    display: inline-block;
+}
+.backend {
+    margin-top: 10px;
+}
+.part-two {
+display: flex;
+border: 1px solid rgb(223, 206, 206);
+border-radius: 30px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+width: 360px;
+height: 100px;
+margin-left: 90px;
+overflow:hidden
+}
+.left-section {
+   background-color: rgb(223, 206, 206);
+   width: 100px;
+   height: 100px;
+   margin-right: 15px;
+   }
+.youtube {
+    color: gray;
+    font-size: 18px;
+}
+.last {
+    font-size: 18px;
+    font-weight: bold;
+}
+.right section {
+    display: flex;
+    margin-left: 15px;
+    }
